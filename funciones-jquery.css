@@ -1,0 +1,38 @@
+
+#container{
+  background-image: url(diseno-fluido-fondo-abstracto_23-2148569527.jpg);
+  background-size: cover; 
+  background-repeat: no-repeat;
+  padding: 10px;
+  background-attachment: fixed;
+}
+.row{
+  background-color: paleturquoise;
+  width: 900px;
+  align-items: center;
+  margin: 15px;
+  padding: 10px;
+  border: 3px solid gray;
+  border-radius: 10px;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+}
+.boton{
+  background-color: rgb(117,154,181);
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 35px;
+  align-items: center;
+  color: white;
+  font-size: 15px;
+}
+span{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+}
